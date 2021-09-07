@@ -30,7 +30,7 @@ The Evaluation Metrics used to evaluate the Models are:
 
 
   
-## Screenshots
+## Accuracy Report
 
 ![Accuracy Report](https://github.com/namsac16/Loan_Payoff_Predictor/blob/master/Accuracy%20Report.PNG)
 
